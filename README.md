@@ -47,7 +47,7 @@ unzip lab-app.zip -d /var/www/html/
 # Turn on web server
 chkconfig httpd on
 service httpd start
-
+```
 
 Resources
 AWS Documentation
