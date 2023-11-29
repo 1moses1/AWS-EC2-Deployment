@@ -49,10 +49,12 @@ chkconfig httpd on
 service httpd start
 ```
 
-Resources
+## Resources
+
 AWS Documentation
+
 https://aws.amazon.com/ec2/?nc2=h_ql_prod_fs_ec2
 
 ALX AWS Cloud Computing Course
 
-Lab Complete
+## Lab Complete
